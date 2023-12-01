@@ -1,0 +1,22 @@
+<?php 
+require 'header.php';
+?>
+
+<div class=unown>WATER</div>
+
+<div class="mmargin">
+<h1>My First Header</h1>
+
+<hr>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque venenatis tellus urna, ut auctor libero egestas eget. Curabitur convallis sit amet nulla in scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis nisl dolor, congue vel laoreet tincidunt, viverra sit amet odio. Pellentesque diam lectus, ultrices sed tincidunt at, dapibus ut ante. Curabitur mollis elit non tortor sollicitudin suscipit in a turpis. Donec vulputate, elit non porta posuere, urna velit molestie sem, vitae sagittis metus lectus sed neque. Fusce sollicitudin ultricies lectus quis accumsan. Suspendisse fermentum lorem purus. Mauris imperdiet urna ac dapibus fringilla. Sed pretium urna quam, at tempor risus sollicitudin quis. Pellentesque auctor euismod nunc finibus tincidunt. Sed pharetra tristique eros vitae tempor. Nullam viverra massa in lorem placerat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae tellus at turpis interdum condimentum sed vitae risus.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque venenatis tellus urna, ut auctor libero egestas eget. Curabitur convallis sit amet nulla in scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis nisl dolor, congue vel laoreet tincidunt, viverra sit amet odio. Pellentesque diam lectus, ultrices sed tincidunt at, dapibus ut ante. Curabitur mollis elit non tortor sollicitudin suscipit in a turpis. Donec vulputate, elit non porta posuere, urna velit molestie sem, vitae sagittis metus lectus sed neque. Fusce sollicitudin ultricies lectus quis accumsan. Suspendisse fermentum lorem purus. Mauris imperdiet urna ac dapibus fringilla. Sed pretium urna quam, at tempor risus sollicitudin quis. Pellentesque auctor euismod nunc finibus tincidunt. Sed pharetra tristique eros vitae tempor. Nullam viverra massa in lorem placerat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae tellus at turpis interdum condimentum sed vitae risus.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque venenatis tellus urna, ut auctor libero egestas eget. Curabitur convallis sit amet nulla in scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis nisl dolor, congue vel laoreet tincidunt, viverra sit amet odio. Pellentesque diam lectus, ultrices sed tincidunt at, dapibus ut ante. Curabitur mollis elit non tortor sollicitudin suscipit in a turpis. Donec vulputate, elit non porta posuere, urna velit molestie sem, vitae sagittis metus lectus sed neque. Fusce sollicitudin ultricies lectus quis accumsan. Suspendisse fermentum lorem purus. Mauris imperdiet urna ac dapibus fringilla. Sed pretium urna quam, at tempor risus sollicitudin quis. Pellentesque auctor euismod nunc finibus tincidunt. Sed pharetra tristique eros vitae tempor. Nullam viverra massa in lorem placerat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae tellus at turpis interdum condimentum sed vitae risus.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque venenatis tellus urna, ut auctor libero egestas eget. Curabitur convallis sit amet nulla in scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis nisl dolor, congue vel laoreet tincidunt, viverra sit amet odio. Pellentesque diam lectus, ultrices sed tincidunt at, dapibus ut ante. Curabitur mollis elit non tortor sollicitudin suscipit in a turpis. Donec vulputate, elit non porta posuere, urna velit molestie sem, vitae sagittis metus lectus sed neque. Fusce sollicitudin ultricies lectus quis accumsan. Suspendisse fermentum lorem purus. Mauris imperdiet urna ac dapibus fringilla. Sed pretium urna quam, at tempor risus sollicitudin quis. Pellentesque auctor euismod nunc finibus tincidunt. Sed pharetra tristique eros vitae tempor. Nullam viverra massa in lorem placerat rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vitae tellus at turpis interdum condimentum sed vitae risus.</p>
+</div>
+
+<hr>
+
+<?php 
+require 'footer.php';
+?>
